@@ -1,6 +1,6 @@
 # Robot Gladiators
 
-##Purpose:
+## Purpose:
 Robot Gladiators is the Module 3 class project in the UT Aust Full Stack Web Development Boot Camp. The focus is on the introduction to JavaScript. The challenge tied to this module is the Password Generator
   * [Challenge 3-Password Generator](https://github.com/JSheleg/password_generator)
 
